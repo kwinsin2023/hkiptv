@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="港澳台",无线新闻台
+https://pro-pulltc-blive.baijiayun.com/live/f51dbefe1d29ee8430947cceff1fbf2f.flv
+#EXTINF:-1 group-title="港澳台",无线翡翠台
+https://pro-pulltc-blive.baijiayun.com/live/bd8862230cdced7eac4b80623d51b3e8.flv
+#EXTINF:-1 group-title="港澳台",VIUTV
+https://t129.2026016.xyz/pull-f5-hs.pstatp.com/live/a7b39991c39e81812494b77e225b2899.flv
+#EXTINF:-1 group-title="港澳台",VIUTV6
+https://t129.2026016.xyz/pull-f5-hs.pstatp.com/live/3c621fbcb8088bb04f55091c9c34067c.flv
+#EXTINF:-1 group-title="港澳台",HOYTV
+https://api1.2026016.xyz/eplay2.php?token=MgY2hN7x3GCsXPfSqpJQjFNE&tid=wintv123&id=38&p=0&type=.flv
+#EXTINF:-1 group-title="港澳台",HOY78
+https://pro-pulltc-blive.baijiayun.com/live/cf07785841bb06118485813ad1bbdbb0.flv
